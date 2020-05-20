@@ -1,0 +1,29 @@
+{
+  "name": "the-official-podcast-webplayer",
+  "version": "1.0.0",
+  "description": "A web app that plays The Official Podcast episodes and has text searching capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaymarMonte/the-official-podcast-webplayer.git"
+  },
+  "keywords": [
+    "the",
+    "official",
+    "podcast",
+    "webplayer",
+    "subtitle"
+  ],
+  "author": "Raymar Monte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaymarMonte/the-official-podcast-webplayer/issues"
+  },
+  "homepage": "https://github.com/RaymarMonte/the-official-podcast-webplayer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
